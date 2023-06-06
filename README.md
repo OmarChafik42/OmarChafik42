@@ -12,7 +12,7 @@ I am actively seeking internship opportunities to apply my practical skills and 
 
 ## 📫 Contact
 
-Please feel free to reach out to me via email at [omar.chafik42@gmail.com](mailto:omar.chafik42@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/omar-chafik-a3a39627a/)). Let's connect and discuss exciting AI possibilities, including potential internship opportunities!
+Please feel free to reach out to me via email at [omar.chafik42@gmail.com](mailto:omar.chafik42@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/omar-chafik-a3a39627a/). Let's connect and discuss exciting AI possibilities, including potential internship opportunities!
 
 I am enthusiastic about engaging in meaningful conversations and collaborative endeavors.
 
