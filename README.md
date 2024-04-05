@@ -1,20 +1,16 @@
 ## 👀 About Me
 
-I am an AI bachelor student with a passion for artificial intelligence, computer vision, machine learning, puzzle games, and classic literature. Constantly exploring these fields, I am dedicated to expanding my knowledge and skills.
+I am an Artificial Intelligence student living in Germany with a passion for computer vision, machine learning, solving puzzle games, and reading classic literature. Constantly exploring these fields, I am dedicated to expanding my knowledge and skills.
 
 ## 🌱 Learning
 
-Currently, my focus lies in deepening my understanding of AI techniques, particularly in computer vision and machine learning. Through active engagement in research and coursework, I strive to stay updated with the latest advancements.
-
-## 💼 Internship Opportunity
-
-I am actively seeking internship opportunities to apply my practical skills and research experience. If you have an AI, computer vision, or machine learning internship position available, I am eager to contribute and gain valuable hands-on experience in real-world projects.
+Currently, my focus lies in deepening my understanding of AI methods, particularly implementations in Deep Learning and MLOps. Through active engagement in research and coursework, I strive to stay updated with the latest advancements.
 
 ## 📫 Contact
 
-Please feel free to reach out to me via email at [omar.chafik42@gmail.com](mailto:omar.chafik42@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/omar-chafik-a3a39627a/). 
+Please feel free to reach out to me via email at [omar.chafik42@gmail.com](mailto:omar.chafik42@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/omarchafik/). 
 
-I am enthusiastic about engaging in meaningful conversations and collaborative endeavors.
+I am enthusiastic about engaging with meaningful projects to apply my practical skills and research experience
 
 <!---
 OmarChafik42/OmarChafik42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
